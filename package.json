@@ -1,0 +1,20 @@
+{
+  "name": "qclient",
+  "version": "1.0.0",
+  "description": "Node client to consume Q-Server (qserver) services",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "quantum",
+    "qserver",
+    "QC"
+  ],
+  "type": "module",
+  "author": "ax1",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
