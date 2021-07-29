@@ -1,5 +1,5 @@
 {
-  "name": "qclient",
+  "name": "qclient-node",
   "version": "1.0.0",
   "description": "Node client to consume Q-Server (qserver) services",
   "main": "index.js",
@@ -11,6 +11,13 @@
     "qserver",
     "QC"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ax1/qclient-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ax1/qclient-node/issues"
+  },
   "type": "module",
   "author": "ax1",
   "license": "MIT",
